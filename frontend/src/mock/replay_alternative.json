@@ -1,0 +1,227 @@
+{
+  "year": 2022,
+  "is_driest_year": true,
+  "total": 73.4,
+  "parts": {
+    "water": 62.97,
+    "soil": 70.89,
+    "resilience": 100.0,
+    "income": 51.04,
+    "animals": 55.56,
+    "pest_break": 100.0
+  },
+  "ribbons": [
+    [
+      {
+        "month": 1,
+        "state": "growing",
+        "flags": []
+      },
+      {
+        "month": 2,
+        "state": "growing",
+        "flags": []
+      },
+      {
+        "month": 3,
+        "state": "growing",
+        "flags": [
+          "water"
+        ]
+      },
+      {
+        "month": 4,
+        "state": "bare",
+        "flags": []
+      },
+      {
+        "month": 5,
+        "state": "bare",
+        "flags": []
+      },
+      {
+        "month": 6,
+        "state": "bare",
+        "flags": []
+      },
+      {
+        "month": 7,
+        "state": "bare",
+        "flags": []
+      },
+      {
+        "month": 8,
+        "state": "bare",
+        "flags": []
+      },
+      {
+        "month": 9,
+        "state": "bare",
+        "flags": []
+      },
+      {
+        "month": 10,
+        "state": "growing",
+        "flags": [
+          "water"
+        ]
+      },
+      {
+        "month": 11,
+        "state": "growing",
+        "flags": []
+      },
+      {
+        "month": 12,
+        "state": "growing",
+        "flags": []
+      }
+    ],
+    [
+      {
+        "month": 1,
+        "state": "growing",
+        "flags": []
+      },
+      {
+        "month": 2,
+        "state": "growing",
+        "flags": []
+      },
+      {
+        "month": 3,
+        "state": "growing",
+        "flags": [
+          "water"
+        ]
+      },
+      {
+        "month": 4,
+        "state": "growing",
+        "flags": [
+          "water"
+        ]
+      },
+      {
+        "month": 5,
+        "state": "bare",
+        "flags": []
+      },
+      {
+        "month": 6,
+        "state": "bare",
+        "flags": []
+      },
+      {
+        "month": 7,
+        "state": "bare",
+        "flags": []
+      },
+      {
+        "month": 8,
+        "state": "bare",
+        "flags": []
+      },
+      {
+        "month": 9,
+        "state": "bare",
+        "flags": []
+      },
+      {
+        "month": 10,
+        "state": "growing",
+        "flags": [
+          "water"
+        ]
+      },
+      {
+        "month": 11,
+        "state": "growing",
+        "flags": []
+      },
+      {
+        "month": 12,
+        "state": "growing",
+        "flags": []
+      }
+    ],
+    [
+      {
+        "month": 1,
+        "state": "growing",
+        "flags": []
+      },
+      {
+        "month": 2,
+        "state": "growing",
+        "flags": []
+      },
+      {
+        "month": 3,
+        "state": "growing",
+        "flags": [
+          "water"
+        ]
+      },
+      {
+        "month": 4,
+        "state": "growing",
+        "flags": [
+          "water"
+        ]
+      },
+      {
+        "month": 5,
+        "state": "growing",
+        "flags": [
+          "water"
+        ]
+      },
+      {
+        "month": 6,
+        "state": "bare",
+        "flags": []
+      },
+      {
+        "month": 7,
+        "state": "bare",
+        "flags": []
+      },
+      {
+        "month": 8,
+        "state": "bare",
+        "flags": []
+      },
+      {
+        "month": 9,
+        "state": "bare",
+        "flags": []
+      },
+      {
+        "month": 10,
+        "state": "growing",
+        "flags": [
+          "water"
+        ]
+      },
+      {
+        "month": 11,
+        "state": "growing",
+        "flags": []
+      },
+      {
+        "month": 12,
+        "state": "growing",
+        "flags": []
+      }
+    ]
+  ],
+  "plan_id": "barley-faba_bean-potato+oat_cover",
+  "rain_that_year_mm": 229.0,
+  "typical_annual_rain_mm": 520.0,
+  "typical_total": 76.6,
+  "worst_in_data": {
+    "year": 2022,
+    "total": 73.4
+  }
+}

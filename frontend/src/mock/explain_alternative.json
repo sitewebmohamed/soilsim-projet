@@ -1,0 +1,61 @@
+{
+  "plan_id": "barley-faba_bean-potato+oat_cover",
+  "label": "alternative",
+  "why_suggested": [
+    "This was the best-scoring option that uses different main crops from the recommended plan in at least two of the three years, so you have a real alternative.",
+    "It scores 76 out of 100. Its strongest points are pest and disease break (100) and heat and frost resilience (100).",
+    "Its weakest point is estimated revenue (51)."
+  ],
+  "evidence": [
+    {
+      "topic": "Scores",
+      "fact": "water fit 82; soil health 71; heat and frost resilience 100; estimated revenue 51; animal feed value 56; pest and disease break 100"
+    },
+    {
+      "topic": "Soil cover",
+      "fact": "A crop is growing in about 7 of 12 months in a typical year."
+    },
+    {
+      "topic": "Roots",
+      "fact": "Roots reach about 90 cm on average."
+    },
+    {
+      "topic": "Weather data",
+      "fact": "Based on 10 years of monthly weather (synthetic demonstration data)."
+    },
+    {
+      "topic": "Water",
+      "fact": "The thirstiest year needs about 186 mm of irrigation on top of rain; your yearly water budget is 300 mm."
+    },
+    {
+      "topic": "Past years",
+      "fact": "Replaying 10 past years, the typical score is 77 and the lowest is 73 (year 2022)."
+    }
+  ],
+  "benefits": [
+    "Includes legumes (Faba bean). Legumes host bacteria that fix nitrogen from the air, which can reduce the nitrogen the next crop needs.",
+    "Cover crops (Oat (cover crop)) keep the soil covered and roots alive between main crops, which helps protect against erosion and adds plant residue.",
+    "Every year of this plan fits within your yearly water budget.",
+    "Consecutive crops come from different plant families, which helps break pest and disease cycles."
+  ],
+  "data_gaps": [
+    "Weather and soil data are synthetic",
+    "Income compares estimated revenue per hectare, not profit. Production costs are not included.",
+    "Each crop uses one average water coefficient instead of stage-by-stage values.",
+    "Sowing windows, yields and prices are typical values, not your local calendar or market.",
+    "Soil values come from a regional dataset, not from samples of your own field.",
+    "Scores are modeled estimates, not certified results."
+  ],
+  "risks_needing_local_review": [
+    "Needs irrigation: Potato (irrigated). Check that you can reliably get the water.",
+    "Water stress appears in 5 crop-months across the three years.",
+    "Check varieties, fertilizer and pest advice with your local agricultural advisor before changing your rotation."
+  ],
+  "confidence": {
+    "level": "low",
+    "reasons": [
+      "Weather and soil data are synthetic"
+    ]
+  },
+  "disclaimer": "This tool supports farmer judgment and does not replace local expertise."
+}

@@ -1,0 +1,776 @@
+[
+  {
+    "plan_id": "maize-sunflower-potato",
+    "label": "current",
+    "feasible": true,
+    "slots": [
+      {
+        "main_id": "maize",
+        "cover_id": null
+      },
+      {
+        "main_id": "sunflower",
+        "cover_id": null
+      },
+      {
+        "main_id": "potato",
+        "cover_id": null
+      }
+    ],
+    "scores": {
+      "total": 60.0,
+      "parts": {
+        "water": 16.45,
+        "soil": 38.89,
+        "resilience": 100.0,
+        "income": 60.3,
+        "animals": 44.44,
+        "pest_break": 100.0
+      }
+    },
+    "ribbons": [
+      [
+        {
+          "month": 1,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 2,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 3,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 4,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 5,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 6,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 7,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 8,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 9,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 10,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 11,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 12,
+          "state": "bare",
+          "flags": []
+        }
+      ],
+      [
+        {
+          "month": 1,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 2,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 3,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 4,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 5,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 6,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 7,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 8,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 9,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 10,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 11,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 12,
+          "state": "bare",
+          "flags": []
+        }
+      ],
+      [
+        {
+          "month": 1,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 2,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 3,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 4,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 5,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 6,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 7,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 8,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 9,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 10,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 11,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 12,
+          "state": "bare",
+          "flags": []
+        }
+      ]
+    ],
+    "underground": {
+      "root_depth_cm": 100.0,
+      "organic_matter": 0.389,
+      "moisture": 0.207,
+      "cover": 0.361,
+      "n_fixing": false
+    },
+    "confidence": {
+      "level": "low",
+      "reasons": [
+        "Weather and soil data are synthetic"
+      ]
+    },
+    "water_check": {
+      "budget_mm": 300.0,
+      "peak_deficit_mm": 582.0,
+      "within_budget": false
+    }
+  },
+  {
+    "plan_id": "barley-lentil-forage_oat",
+    "label": "recommended",
+    "feasible": true,
+    "slots": [
+      {
+        "main_id": "barley",
+        "cover_id": null
+      },
+      {
+        "main_id": "lentil",
+        "cover_id": null
+      },
+      {
+        "main_id": "forage_oat",
+        "cover_id": null
+      }
+    ],
+    "scores": {
+      "total": 61.9,
+      "parts": {
+        "water": 63.62,
+        "soil": 63.33,
+        "resilience": 100.0,
+        "income": 27.82,
+        "animals": 66.67,
+        "pest_break": 50.0
+      }
+    },
+    "ribbons": [
+      [
+        {
+          "month": 1,
+          "state": "growing",
+          "flags": []
+        },
+        {
+          "month": 2,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 3,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 4,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 5,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 6,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 7,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 8,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 9,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 10,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 11,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 12,
+          "state": "growing",
+          "flags": []
+        }
+      ],
+      [
+        {
+          "month": 1,
+          "state": "growing",
+          "flags": []
+        },
+        {
+          "month": 2,
+          "state": "growing",
+          "flags": []
+        },
+        {
+          "month": 3,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 4,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 5,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 6,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 7,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 8,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 9,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 10,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 11,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 12,
+          "state": "growing",
+          "flags": []
+        }
+      ],
+      [
+        {
+          "month": 1,
+          "state": "growing",
+          "flags": []
+        },
+        {
+          "month": 2,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 3,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 4,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 5,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 6,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 7,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 8,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 9,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 10,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 11,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 12,
+          "state": "growing",
+          "flags": []
+        }
+      ]
+    ],
+    "underground": {
+      "root_depth_cm": 100.0,
+      "organic_matter": 0.633,
+      "moisture": 0.367,
+      "cover": 0.472,
+      "n_fixing": true
+    },
+    "confidence": {
+      "level": "low",
+      "reasons": [
+        "Weather and soil data are synthetic"
+      ]
+    },
+    "water_check": {
+      "budget_mm": 300.0,
+      "peak_deficit_mm": 240.8,
+      "within_budget": true
+    }
+  },
+  {
+    "plan_id": "forage_oat-lentil-barley",
+    "label": "alternative",
+    "feasible": true,
+    "slots": [
+      {
+        "main_id": "forage_oat",
+        "cover_id": null
+      },
+      {
+        "main_id": "lentil",
+        "cover_id": null
+      },
+      {
+        "main_id": "barley",
+        "cover_id": null
+      }
+    ],
+    "scores": {
+      "total": 61.9,
+      "parts": {
+        "water": 63.62,
+        "soil": 63.33,
+        "resilience": 100.0,
+        "income": 27.82,
+        "animals": 66.67,
+        "pest_break": 50.0
+      }
+    },
+    "ribbons": [
+      [
+        {
+          "month": 1,
+          "state": "growing",
+          "flags": []
+        },
+        {
+          "month": 2,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 3,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 4,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 5,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 6,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 7,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 8,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 9,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 10,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 11,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 12,
+          "state": "growing",
+          "flags": []
+        }
+      ],
+      [
+        {
+          "month": 1,
+          "state": "growing",
+          "flags": []
+        },
+        {
+          "month": 2,
+          "state": "growing",
+          "flags": []
+        },
+        {
+          "month": 3,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 4,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 5,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 6,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 7,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 8,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 9,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 10,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 11,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 12,
+          "state": "growing",
+          "flags": []
+        }
+      ],
+      [
+        {
+          "month": 1,
+          "state": "growing",
+          "flags": []
+        },
+        {
+          "month": 2,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 3,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 4,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 5,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 6,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 7,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 8,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 9,
+          "state": "bare",
+          "flags": []
+        },
+        {
+          "month": 10,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 11,
+          "state": "growing",
+          "flags": [
+            "water"
+          ]
+        },
+        {
+          "month": 12,
+          "state": "growing",
+          "flags": []
+        }
+      ]
+    ],
+    "underground": {
+      "root_depth_cm": 100.0,
+      "organic_matter": 0.633,
+      "moisture": 0.367,
+      "cover": 0.472,
+      "n_fixing": true
+    },
+    "confidence": {
+      "level": "low",
+      "reasons": [
+        "Weather and soil data are synthetic"
+      ]
+    },
+    "water_check": {
+      "budget_mm": 300.0,
+      "peak_deficit_mm": 240.8,
+      "within_budget": true
+    }
+  }
+]

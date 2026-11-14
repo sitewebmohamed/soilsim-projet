@@ -1,0 +1,82 @@
+{
+  "temp_delta_c": 2.0,
+  "rain_factor": 0.7,
+  "ranking": [
+    {
+      "plan_id": "forage_oat-lentil-potato+oat_cover",
+      "baseline_total": 78.7,
+      "scenario_total": 76.6,
+      "delta_total": -2.1,
+      "scenario_parts": {
+        "water": 77.52,
+        "soil": 66.44,
+        "resilience": 94.74,
+        "income": 54.18,
+        "animals": 66.67,
+        "pest_break": 100.0
+      },
+      "delta_parts": {
+        "water": -7.6,
+        "soil": 0.0,
+        "resilience": -5.3,
+        "income": 0.0,
+        "animals": 0.0,
+        "pest_break": 0.0
+      },
+      "rank": 1
+    },
+    {
+      "plan_id": "barley-faba_bean-potato+oat_cover",
+      "baseline_total": 76.5,
+      "scenario_total": 73.3,
+      "delta_total": -3.2,
+      "scenario_parts": {
+        "water": 72.03,
+        "soil": 70.89,
+        "resilience": 90.48,
+        "income": 51.04,
+        "animals": 55.56,
+        "pest_break": 100.0
+      },
+      "delta_parts": {
+        "water": -9.7,
+        "soil": 0.0,
+        "resilience": -9.5,
+        "income": 0.0,
+        "animals": 0.0,
+        "pest_break": 0.0
+      },
+      "rank": 2
+    },
+    {
+      "plan_id": "durum_wheat-chickpea-barley",
+      "baseline_total": 62.5,
+      "scenario_total": 60.2,
+      "delta_total": -2.3,
+      "scenario_parts": {
+        "water": 73.71,
+        "soil": 68.89,
+        "resilience": 94.44,
+        "income": 29.43,
+        "animals": 44.44,
+        "pest_break": 50.0
+      },
+      "delta_parts": {
+        "water": -8.4,
+        "soil": 0.0,
+        "resilience": -5.6,
+        "income": 0.0,
+        "animals": 0.0,
+        "pest_break": 0.0
+      },
+      "rank": 3
+    }
+  ],
+  "assumptions": [
+    "ET0 rises with temperature using the Hargreaves-Samani ratio (FAO-56 Eq. 52).",
+    "Months with Tmax >= 25.0 C gain 2.0 heat days per +1 C (assumption).",
+    "Frost days are left unchanged: warming is not credited with fewer frost days (conservative, because late frosts still occur).",
+    "Soil wetness is reduced in proportion to the square root of the rainfall factor (assumption).",
+    "Crop traits and sowing dates are unchanged in the scenario."
+  ]
+}

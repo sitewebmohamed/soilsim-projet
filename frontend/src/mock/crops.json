@@ -1,0 +1,145 @@
+[
+  {
+    "crop_id": "durum_wheat",
+    "name_en": "Durum wheat",
+    "name_fr": "Blé dur",
+    "name_ar": "القمح الصلب",
+    "role": "main",
+    "family": "poaceae",
+    "kc_avg": 0.8,
+    "n_fixing": false,
+    "is_assumption": true
+  },
+  {
+    "crop_id": "soft_wheat",
+    "name_en": "Soft wheat",
+    "name_fr": "Blé tendre",
+    "name_ar": "القمح الطري",
+    "role": "main",
+    "family": "poaceae",
+    "kc_avg": 0.8,
+    "n_fixing": false,
+    "is_assumption": true
+  },
+  {
+    "crop_id": "barley",
+    "name_en": "Barley",
+    "name_fr": "Orge",
+    "name_ar": "الشعير",
+    "role": "main",
+    "family": "poaceae",
+    "kc_avg": 0.8,
+    "n_fixing": false,
+    "is_assumption": true
+  },
+  {
+    "crop_id": "forage_oat",
+    "name_en": "Forage oat",
+    "name_fr": "Avoine fourragère",
+    "name_ar": "الشوفان العلفي",
+    "role": "main",
+    "family": "poaceae",
+    "kc_avg": 0.8,
+    "n_fixing": false,
+    "is_assumption": true
+  },
+  {
+    "crop_id": "chickpea",
+    "name_en": "Chickpea",
+    "name_fr": "Pois chiche",
+    "name_ar": "الحمص",
+    "role": "main",
+    "family": "fabaceae",
+    "kc_avg": 0.75,
+    "n_fixing": true,
+    "is_assumption": true
+  },
+  {
+    "crop_id": "lentil",
+    "name_en": "Lentil",
+    "name_fr": "Lentille",
+    "name_ar": "العدس",
+    "role": "main",
+    "family": "fabaceae",
+    "kc_avg": 0.75,
+    "n_fixing": true,
+    "is_assumption": true
+  },
+  {
+    "crop_id": "faba_bean",
+    "name_en": "Faba bean",
+    "name_fr": "Fève",
+    "name_ar": "الفول",
+    "role": "main",
+    "family": "fabaceae",
+    "kc_avg": 0.8,
+    "n_fixing": true,
+    "is_assumption": true
+  },
+  {
+    "crop_id": "maize",
+    "name_en": "Maize (irrigated)",
+    "name_fr": "Maïs (irrigué)",
+    "name_ar": "الذرة",
+    "role": "main",
+    "family": "poaceae",
+    "kc_avg": 0.85,
+    "n_fixing": false,
+    "is_assumption": true
+  },
+  {
+    "crop_id": "sunflower",
+    "name_en": "Sunflower",
+    "name_fr": "Tournesol",
+    "name_ar": "دوار الشمس",
+    "role": "main",
+    "family": "asteraceae",
+    "kc_avg": 0.75,
+    "n_fixing": false,
+    "is_assumption": true
+  },
+  {
+    "crop_id": "potato",
+    "name_en": "Potato (irrigated)",
+    "name_fr": "Pomme de terre (irrigué)",
+    "name_ar": "البطاطس",
+    "role": "main",
+    "family": "solanaceae",
+    "kc_avg": 0.85,
+    "n_fixing": false,
+    "is_assumption": true
+  },
+  {
+    "crop_id": "vetch_cover",
+    "name_en": "Vetch (cover crop)",
+    "name_fr": "Vesce (engrais vert)",
+    "name_ar": "البيقية (غطاء)",
+    "role": "cover",
+    "family": "fabaceae",
+    "kc_avg": 0.7,
+    "n_fixing": true,
+    "is_assumption": true
+  },
+  {
+    "crop_id": "berseem_cover",
+    "name_en": "Berseem clover (cover crop)",
+    "name_fr": "Trèfle d'Alexandrie (engrais vert)",
+    "name_ar": "البرسيم (غطاء)",
+    "role": "cover",
+    "family": "fabaceae",
+    "kc_avg": 0.8,
+    "n_fixing": true,
+    "is_assumption": true
+  },
+  {
+    "crop_id": "oat_cover",
+    "name_en": "Oat (cover crop)",
+    "name_fr": "Avoine (couvert)",
+    "name_ar": "الشوفان (غطاء)",
+    "role": "cover",
+    "family": "poaceae",
+    "kc_avg": 0.7,
+    "n_fixing": false,
+    "is_assumption": true
+  }
+]

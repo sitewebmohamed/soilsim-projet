@@ -1,0 +1,60 @@
+{
+  "plan_id": "durum_wheat-chickpea-barley",
+  "label": "current",
+  "why_suggested": [
+    "This is the rotation you told us you use today. It is the starting point for comparison.",
+    "It scores 62 out of 100. Its strongest points are heat and frost resilience (100) and water fit (82).",
+    "Its weakest point is estimated revenue (29)."
+  ],
+  "evidence": [
+    {
+      "topic": "Scores",
+      "fact": "water fit 82; soil health 69; heat and frost resilience 100; estimated revenue 29; animal feed value 44; pest and disease break 50"
+    },
+    {
+      "topic": "Soil cover",
+      "fact": "A crop is growing in about 6 of 12 months in a typical year."
+    },
+    {
+      "topic": "Roots",
+      "fact": "Roots reach about 117 cm on average."
+    },
+    {
+      "topic": "Weather data",
+      "fact": "Based on 10 years of monthly weather (synthetic demonstration data)."
+    },
+    {
+      "topic": "Water",
+      "fact": "The thirstiest year needs about 144 mm of irrigation on top of rain; your yearly water budget is 300 mm."
+    },
+    {
+      "topic": "Past years",
+      "fact": "Replaying 10 past years, the typical score is 62 and the lowest is 60 (year 2022)."
+    }
+  ],
+  "benefits": [
+    "Includes legumes (Chickpea). Legumes host bacteria that fix nitrogen from the air, which can reduce the nitrogen the next crop needs.",
+    "Every year of this plan fits within your yearly water budget.",
+    "Deeper roots can reach water and nutrients lower in the soil and help water soak in."
+  ],
+  "data_gaps": [
+    "Weather and soil data are synthetic",
+    "Income compares estimated revenue per hectare, not profit. Production costs are not included.",
+    "Each crop uses one average water coefficient instead of stage-by-stage values.",
+    "Sowing windows, yields and prices are typical values, not your local calendar or market.",
+    "Soil values come from a regional dataset, not from samples of your own field.",
+    "Scores are modeled estimates, not certified results."
+  ],
+  "risks_needing_local_review": [
+    "Water stress appears in 5 crop-months across the three years.",
+    "Barley is followed by Durum wheat, a crop from the same plant family, when the rotation repeats (year 3 to year 1). This can build up pests and diseases.",
+    "Check varieties, fertilizer and pest advice with your local agricultural advisor before changing your rotation."
+  ],
+  "confidence": {
+    "level": "low",
+    "reasons": [
+      "Weather and soil data are synthetic"
+    ]
+  },
+  "disclaimer": "This tool supports farmer judgment and does not replace local expertise."
+}

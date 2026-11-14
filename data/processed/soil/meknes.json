@@ -1,0 +1,10 @@
+{
+  "texture": "clay loam",
+  "clay_pct": 34.0,
+  "sand_pct": 28.0,
+  "silt_pct": 38.0,
+  "organic_carbon_g_kg": 14.5,
+  "ph": 7.8,
+  "bulk_density_g_cm3": 1.32,
+  "is_fake": true
+}

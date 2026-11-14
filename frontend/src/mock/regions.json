@@ -1,0 +1,32 @@
+[
+  {
+    "id": "meknes",
+    "name": "Meknès",
+    "region": "Fès-Meknès",
+    "country": "Morocco",
+    "lat": 33.8938,
+    "lon": -5.5516,
+    "elevation_m": 530,
+    "climate_type": "Mediterranean / Semi-arid"
+  },
+  {
+    "id": "saiss",
+    "name": "Saïss",
+    "region": "Saïss Plain",
+    "country": "Morocco",
+    "lat": 33.95,
+    "lon": -5.15,
+    "elevation_m": 480,
+    "climate_type": "Mediterranean Continental"
+  },
+  {
+    "id": "souss",
+    "name": "Souss",
+    "region": "Souss-Massa",
+    "country": "Morocco",
+    "lat": 30.42,
+    "lon": -9.59,
+    "elevation_m": 120,
+    "climate_type": "Arid / Semi-arid"
+  }
+]

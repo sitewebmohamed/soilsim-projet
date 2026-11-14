@@ -1,0 +1,92 @@
+{
+  "app": {
+    "title": "SoilSim",
+    "subtitle": "Aide à la rotation des cultures · données NASA & SoilGrids",
+    "disclaimer": "Cet outil soutient le jugement de l'agriculteur et ne remplace pas l'expertise locale."
+  },
+  "nav": {
+    "field": "Ma Parcelle",
+    "priorities": "Mes Priorités",
+    "futures": "Mes Futurs"
+  },
+  "field": {
+    "title": "Ma Parcelle",
+    "chooseRegion": "Choisir une région",
+    "fieldInfo": "Informations sur la parcelle",
+    "currentRotation": "Rotation actuelle sur 3 ans",
+    "slot": "Année",
+    "mainCrop": "Culture principale",
+    "noCrop": "Sélectionner une culture",
+    "climate": "Climat",
+    "elevation": "Altitude",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "syntheticBadge": "Données synthétiques",
+    "syntheticNote": "Utilise des données générées · La bordure en tirets indique des hypothèses",
+    "continueToP": "Suivant : Priorités →"
+  },
+  "priorities": {
+    "title": "Mes Priorités",
+    "subtitle": "Qu'est-ce qui compte le plus pour vous ?",
+    "water": "Économiser l'eau",
+    "waterDesc": "Préférer les cultures qui utilisent moins d'irrigation",
+    "income": "Meilleur revenu",
+    "incomeDesc": "Préférer les cultures à plus haute valeur marchande",
+    "soil": "Santé du sol",
+    "soilDesc": "Protéger et améliorer votre sol sur le long terme",
+    "animals": "Nourrir les animaux",
+    "animalsDesc": "Inclure des cultures pour l'alimentation du bétail",
+    "waterBudget": "Eau disponible par an",
+    "low": "Faible (pluvial / 100 mm suppl.)",
+    "medium": "Moyen (300 mm irrigation)",
+    "high": "Élevé (600 mm irrigation)",
+    "continueToF": "Voir mes futurs →",
+    "back": "← Retour à la parcelle"
+  },
+  "futures": {
+    "title": "Mes Futurs",
+    "subtitle": "Trois plans comparés sur 10 ans de météo locale",
+    "current": "Rotation actuelle",
+    "recommended": "Recommandé",
+    "alternative": "Alternative",
+    "totalScore": "Score global",
+    "water": "Eau",
+    "soil": "Sol",
+    "income": "Revenu",
+    "animals": "Animaux",
+    "resilience": "Résilience",
+    "pestBreak": "Rupture ravageurs",
+    "confidence": "Confiance données",
+    "low": "Faible",
+    "medium": "Moyen",
+    "high": "Élevé",
+    "slot": "Année",
+    "yearRibbon": "Vue mensuelle année 1",
+    "growing": "En culture",
+    "bare": "Sol nu",
+    "underground": "Profil du sol",
+    "rootDepth": "Profondeur racinaire",
+    "organicMatter": "Indice matière organique",
+    "moisture": "Humidité",
+    "nFix": "Cultures fixatrices d'azote",
+    "yes": "Oui",
+    "no": "Non",
+    "coverFraction": "Couverture du sol",
+    "feasibleNo": "Signal risque climatique",
+    "back": "← Retour aux priorités",
+    "notReady": "Complétez d'abord la Parcelle et les Priorités"
+  },
+  "confidence": {
+    "low": "FAIBLE — données synthétiques",
+    "medium": "MOYEN — hypothèses présentes",
+    "high": "ÉLEVÉ — données vérifiées"
+  },
+  "ribbon": {
+    "growing": "En culture",
+    "bare": "Sol nu",
+    "heat": "Stress thermique",
+    "frost": "Risque gel",
+    "water": "Déficit hydrique"
+  },
+  "months": ["Jan","Fév","Mar","Avr","Mai","Juin","Juil","Aoû","Sep","Oct","Nov","Déc"]
+}

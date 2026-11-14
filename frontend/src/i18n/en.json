@@ -1,0 +1,92 @@
+{
+  "app": {
+    "title": "SoilSim",
+    "subtitle": "Crop rotation decision support · NASA & SoilGrids data",
+    "disclaimer": "This tool supports farmer judgment and does not replace local expertise."
+  },
+  "nav": {
+    "field": "My Field",
+    "priorities": "My Priorities",
+    "futures": "My Futures"
+  },
+  "field": {
+    "title": "My Field",
+    "chooseRegion": "Choose a region",
+    "fieldInfo": "Field information",
+    "currentRotation": "Current 3-year rotation",
+    "slot": "Year",
+    "mainCrop": "Main crop",
+    "noCrop": "Select a crop",
+    "climate": "Climate",
+    "elevation": "Elevation",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "syntheticBadge": "Synthetic data",
+    "syntheticNote": "Using generated data · Dashed border indicates assumptions",
+    "continueToP": "Next: Set Priorities →"
+  },
+  "priorities": {
+    "title": "My Priorities",
+    "subtitle": "What matters most to you?",
+    "water": "Save Water",
+    "waterDesc": "Prefer crops that use less irrigation",
+    "income": "Better Income",
+    "incomeDesc": "Prefer crops with higher market value",
+    "soil": "Soil Health",
+    "soilDesc": "Protect and improve your soil over time",
+    "animals": "Feed Animals",
+    "animalsDesc": "Include crops that feed livestock",
+    "waterBudget": "Water available per year",
+    "low": "Low (rainfed / 100 mm extra)",
+    "medium": "Medium (300 mm irrigation)",
+    "high": "High (600 mm irrigation)",
+    "continueToF": "See My Futures →",
+    "back": "← Back to Field"
+  },
+  "futures": {
+    "title": "My Futures",
+    "subtitle": "Three plans compared against 10 years of local weather",
+    "current": "Current Rotation",
+    "recommended": "Recommended",
+    "alternative": "Alternative",
+    "totalScore": "Overall score",
+    "water": "Water",
+    "soil": "Soil",
+    "income": "Income",
+    "animals": "Animals",
+    "resilience": "Resilience",
+    "pestBreak": "Pest break",
+    "confidence": "Data confidence",
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High",
+    "slot": "Year",
+    "yearRibbon": "Year 1 monthly view",
+    "growing": "Growing",
+    "bare": "Bare",
+    "underground": "Soil profile",
+    "rootDepth": "Root depth",
+    "organicMatter": "Organic matter index",
+    "moisture": "Moisture",
+    "nFix": "N-fixing crops",
+    "yes": "Yes",
+    "no": "No",
+    "coverFraction": "Soil coverage",
+    "feasibleNo": "Climate risk flag",
+    "back": "← Back to Priorities",
+    "notReady": "Complete Field and Priorities first"
+  },
+  "confidence": {
+    "low": "LOW — synthetic data",
+    "medium": "MEDIUM — assumptions present",
+    "high": "HIGH — verified data"
+  },
+  "ribbon": {
+    "growing": "Growing",
+    "bare": "Bare soil",
+    "heat": "Heat stress",
+    "frost": "Frost risk",
+    "water": "Water deficit"
+  },
+  "months": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
+}

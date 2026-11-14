@@ -1,0 +1,14 @@
+crop_id,name_en,name_fr,name_ar,role,family,sow_month_start,sow_month_end,cycle_months,kc_avg,root_depth_cm,n_fixing,frost_sensitive,heat_sensitive,residue_value,forage_value,price_mad_per_kg,yield_kg_per_ha,source,is_assumption
+durum_wheat,Durum wheat,Blé dur,القمح الصلب,main,poaceae,11,12,7,0.80,150,false,false,false,3,1,3.5,1800,FAO-56 T12/T22 approx; practice+price+yield ASSUMPTION - verify locally,true
+soft_wheat,Soft wheat,Blé tendre,القمح الطري,main,poaceae,11,12,7,0.80,150,false,false,false,3,1,2.8,2200,FAO-56 T12/T22 approx; practice+price+yield ASSUMPTION - verify locally,true
+barley,Barley,Orge,الشعير,main,poaceae,10,12,6,0.80,120,false,false,false,2,2,2.8,1500,FAO-56 T12/T22 approx; practice+price+yield ASSUMPTION - verify locally,true
+forage_oat,Forage oat,Avoine fourragère,الشوفان العلفي,main,poaceae,10,12,5,0.80,110,false,false,false,2,3,1.5,4000,FAO-56 T12/T22 approx (small grains); practice+price+yield ASSUMPTION - verify locally,true
+chickpea,Chickpea,Pois chiche,الحمص,main,fabaceae,1,3,5,0.75,80,true,false,true,1,1,12.0,900,FAO-56 T12/T22 approx (legumes); practice+price+yield ASSUMPTION - verify locally,true
+lentil,Lentil,Lentille,العدس,main,fabaceae,11,12,6,0.75,70,true,false,true,1,1,13.0,700,FAO-56 T12/T22 approx (legumes); practice+price+yield ASSUMPTION - verify locally,true
+faba_bean,Faba bean,Fève,الفول,main,fabaceae,10,12,7,0.80,60,true,false,true,2,1,6.5,1200,FAO-56 T12/T22 approx (broad bean); practice+price+yield ASSUMPTION - verify locally,true
+maize,Maize (irrigated),Maïs (irrigué),الذرة,main,poaceae,4,5,4,0.85,140,false,true,false,3,3,3.0,5000,FAO-56 T12/T22 approx; practice+price+yield ASSUMPTION - verify locally,true
+sunflower,Sunflower,Tournesol,دوار الشمس,main,asteraceae,3,4,5,0.75,110,false,true,false,2,1,5.5,1500,FAO-56 T12/T22 approx; practice+price+yield ASSUMPTION - verify locally,true
+potato,Potato (irrigated),Pomme de terre (irrigué),البطاطس,main,solanaceae,2,3,4,0.85,50,false,true,true,0,0,3.5,25000,FAO-56 T12/T22 approx; practice+price+yield ASSUMPTION - verify locally,true
+vetch_cover,Vetch (cover crop),Vesce (engrais vert),البيقية (غطاء),cover,fabaceae,10,11,5,0.70,70,true,false,false,2,3,0.0,0,FAO-56 T12/T22 approx (legumes); practice ASSUMPTION - verify locally,true
+berseem_cover,Berseem clover (cover crop),Trèfle d'Alexandrie (engrais vert),البرسيم (غطاء),cover,fabaceae,10,11,5,0.80,80,true,false,false,2,3,0.0,0,FAO-56 T12/T22 approx (clover); practice ASSUMPTION - verify locally,true
+oat_cover,Oat (cover crop),Avoine (couvert),الشوفان (غطاء),cover,poaceae,10,11,4,0.70,90,false,false,false,3,2,0.0,0,FAO-56 T12/T22 approx (small grains); practice ASSUMPTION - verify locally,true

@@ -1,0 +1,16 @@
+# SoilSim rules for the coding agent
+
+1. The engine (backend/engine) contains pure functions only: no HTTP, no LLM, no file writes.
+2. No agronomy number may be written in code unless it comes from data/crops.csv or is cited in docs/SOURCES.md. If missing, stop and ask.
+3. The frontend never calculates agronomy. It renders what the API returns.
+4. The LLM never calculates. It calls tools in backend/advisor and phrases the results.
+5. The app never calls NASA or other data APIs at runtime. Only pipeline/ scripts do, and they write to data/processed.
+6. Fake and real data share one schema. Fake rows are flagged is_fake.
+7. API keys live in .env only. Never in code, never in the frontend.
+8. Every engine function has a pytest test before it is considered done.
+9. Small commits, one milestone at a time. After each task, list what changed and how to run it.
+10. Use theme tokens for every color and font. No hard-coded colors.
+11. UI text goes through i18n. No hard-coded strings in components.
+12. Every screen shows: "This tool supports farmer judgment and does not replace local expertise."
+
+Never delete or overwrite files outside the current task. Before changing an existing file, say which file and why.
